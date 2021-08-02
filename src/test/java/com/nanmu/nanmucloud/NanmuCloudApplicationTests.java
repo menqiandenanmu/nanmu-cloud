@@ -8,7 +8,7 @@ class NanmuCloudApplicationTests {
 
     @Test
     void contextLoads() {
-        System.out.println(111);
+        System.out.println(1112222);
     }
 
 }
